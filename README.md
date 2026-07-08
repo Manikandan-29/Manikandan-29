@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
- ██████╗  ██████╗  ██████╗ ████████╗ ██████╗ ██████╗ ███████╗
- ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝██╔═══██╗██╔══██╗██╔════╝
- ██████╔╝██║   ██║██║   ██║   ██║   ██║   ██║██████╔╝███████╗
- ██╔══██╗██║   ██║██║   ██║   ██║   ██║   ██║██╔═══╝ ╚════██║
- ██║  ██║╚██████╔╝╚██████╔╝   ██║   ╚██████╔╝██║     ███████║
- ╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝    ╚═════╝ ╚═╝     ╚══════╝
+ â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—
+ â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•”â•â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•”â•â•â•â–ˆâ–ˆâ•—â•šâ•â•â–ˆâ–ˆâ•”â•â•â•â–ˆâ–ˆâ•”â•â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•”â•â•â•â•â•
+ â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—
+ â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â•â•â•â• â•šâ•â•â•â•â–ˆâ–ˆâ•‘
+ â–ˆâ–ˆâ•‘  â–ˆâ–ˆâ•‘â•šâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•â•šâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•   â–ˆâ–ˆâ•‘   â•šâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•â–ˆâ–ˆâ•‘     â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•‘
+ â•šâ•â•  â•šâ•â• â•šâ•â•â•â•â•â•  â•šâ•â•â•â•â•â•    â•šâ•â•    â•šâ•â•â•â•â•â• â•šâ•â•     â•šâ•â•â•â•â•â•â•
 ```
 
 <a href="https://github.com/Manikandan-29">
@@ -20,11 +20,11 @@
 
 ---
 
-## 📟 `/etc/motd` — Message of the Day
+## ðŸ“Ÿ `/etc/motd` â€” Message of the Day
 
 ```bash
 root@devops:~# whoami
-> Manikandan C — Linux Systems Administrator | Aspiring DevOps / SRE
+> Manikandan C â€” Linux Systems Administrator | Aspiring DevOps / SRE
 
 root@devops:~# cat /var/log/status.log
 [SYSTEM]   2+ years hands-on in Linux production environments (RHEL, Ubuntu, CentOS, SUSE)
@@ -39,7 +39,7 @@ root@devops:~# _
 
 ---
 
-## 🖥️ `$ cat /proc/skills`
+## ðŸ–¥ï¸ `$ cat /proc/skills`
 
 ```yaml
 Linux/OS       : [RHEL, Ubuntu, CentOS, SUSE, VMware ESXi, Hyper-V]     # 2+ yrs production
@@ -56,7 +56,7 @@ Version Ctrl   : [Git, GitHub, Tortoise SVN]
 
 <div align="center">
 
-### `$ htop` — process view: active tools
+### `$ htop` â€” process view: active tools
 
 ![Linux](https://img.shields.io/badge/LINUX-39FF14?style=for-the-badge&logo=linux&logoColor=000000&labelColor=0D1117)
 ![RHEL](https://img.shields.io/badge/RHEL-39FF14?style=for-the-badge&logo=redhat&logoColor=000000&labelColor=0D1117)
@@ -76,12 +76,12 @@ Version Ctrl   : [Git, GitHub, Tortoise SVN]
 
 ---
 
-## 📡 `$ netstat -tulnp` — Infrastructure I Run On
+## ðŸ“¡ `$ netstat -tulnp` â€” Infrastructure I Run On
 
 ```bash
 root@devops:~# systemctl status corent-devops.service
 
-● corent-devops.service - System Administrator (DevOps Support)
+â— corent-devops.service - System Administrator (DevOps Support)
      Loaded: loaded (Corent Technology, Chennai)
      Active: active (running) since May 2024
      Tasks:  Linux fleet mgmt | AWS + VMware ops | Jenkins/GitLab CI/CD |
@@ -94,7 +94,7 @@ root@devops:~# systemctl status corent-devops.service
 
 ---
 
-## 📊 GitHub Stats — `$ df -h /dev/github`
+## ðŸ“Š GitHub Stats â€” `$ df -h /dev/github`
 
 <div align="center">
 
@@ -107,11 +107,11 @@ root@devops:~# systemctl status corent-devops.service
 
 </div>
 
-> ⚠️ **`WARN: stats.service degraded`** — the shared public `github-readme-stats.vercel.app` instance has intermittent `503 DEPLOYMENT_PAUSED` outages due to heavy shared traffic. If the cards above show broken images, that's the free public instance being rate-limited — not your profile. Say the word and I'll set you up with a self-hosted config so it never goes down.
+> âš ï¸ **`WARN: stats.service degraded`** â€” the shared public `github-readme-stats.vercel.app` instance has intermittent `503 DEPLOYMENT_PAUSED` outages due to heavy shared traffic. If the cards above show broken images, that's the free public instance being rate-limited â€” not your profile. Say the word and I'll set you up with a self-hosted config so it never goes down.
 
 ---
 
-## 🔓 `$ ACCESS_GRANTED` — Resume & Contact
+## ðŸ”“ `$ ACCESS_GRANTED` â€” Resume & Contact
 
 ```bash
 root@devops:~# chmod +x view_resume.sh
@@ -120,14 +120,14 @@ root@devops:~# ./view_resume.sh
 [sudo] password for recruiter: ********
 Authenticating........................ [OK]
 Decrypting resume.pdf................. [OK]
-Access level: GRANTED ✅
+Access level: GRANTED âœ…
 ```
 
 <div align="center">
 
 [![wget_resume.pdf](https://img.shields.io/badge/%24_wget_./resume.pdf-39FF14?style=for-the-badge&logo=googledrive&logoColor=000000&labelColor=0D1117)](https://github.com/Manikandan-29/Manikandan-29/Manikandan_C.pdf)
 [![LinkedIn](https://img.shields.io/badge/ssh_linkedin@manikandan-00FFFF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0D1117)](https://www.linkedin.com/in/manikandan-chithambaram-50146021a)
-[![Email](https://img.shields.io/badge/mail_--s_"hire me"-39FF14?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=0D1117)](mailto:manikandandurugam@gmail.com)
+[![Email](https://img.shields.io/badge/mail_--s_hire--me-39FF14?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=0D1117)](mailto:manikandandurugam@gmail.com)
 [![GitHub](https://img.shields.io/badge/git_clone_manikandan--29-00FFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=0D1117)](https://github.com/Manikandan-29)
 
 </div>
