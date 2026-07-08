@@ -125,7 +125,7 @@ Access level: GRANTED [OK]
 
 <div align="center">
 
-[![wget_resume.pdf](https://img.shields.io/badge/%24_wget_./resume.pdf-39FF14?style=for-the-badge&logo=googledrive&logoColor=000000&labelColor=0D1117)](https://github.com/Manikandan-29/Manikandan-29/Manikandan_C.pdf)
+[![wget_resume.pdf](https://img.shields.io/badge/%24_wget_./resume.pdf-39FF14?style=for-the-badge&logo=googledrive&logoColor=000000&labelColor=0D1117)](https://github.com/Manikandan-29/Manikandan_C.pdf)
 [![LinkedIn](https://img.shields.io/badge/ssh_linkedin@manikandan-00FFFF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0D1117)](https://www.linkedin.com/in/manikandan-chithambaram-50146021a)
 [![Email](https://img.shields.io/badge/mail_--s_hire--me-39FF14?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=0D1117)](mailto:manikandandurugam@gmail.com)
 [![GitHub](https://img.shields.io/badge/git_clone_manikandan--29-00FFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=0D1117)](https://github.com/Manikandan-29)
